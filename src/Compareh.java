@@ -2,7 +2,7 @@
 class Bijiao{
     private String msg="hello";
     private int age=12;
-    public boolean compare(Bijiao bijiao){
+    public boolean compare(Bijiao bijiao){//注意，在类的内部，可以直接调用封装属性。
         if(this==bijiao){//直接定义和自己比较返回的值，避免过度计算
             return true;
         }
