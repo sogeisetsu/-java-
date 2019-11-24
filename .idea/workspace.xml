@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26ab8075-d8b0-4321-9fd3-fe85c45c7883" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Compareh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StaticStudy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,14 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Compareh">
-    <configuration name="CeShi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CeShi" />
-      <module name="mejava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StaticStudy">
     <configuration name="Ceshi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ceshi" />
       <module name="mejava" />
@@ -94,6 +87,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StaticStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StaticStudy" />
+      <module name="mejava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="YinYong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="YinYong" />
       <module name="mejava" />
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticStudy" />
         <item itemvalue="Application.Compareh" />
         <item itemvalue="Application.Ceshi" />
         <item itemvalue="Application.PandC" />
         <item itemvalue="Application.YinYong" />
-        <item itemvalue="Application.CeShi" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +127,7 @@
       <workItem from="1573189976872" duration="28622000" />
       <workItem from="1573819426309" duration="12657000" />
       <workItem from="1574486917909" duration="4335000" />
-      <workItem from="1574566326054" duration="3927000" />
+      <workItem from="1574566326054" duration="5946000" />
     </task>
     <servers />
   </component>
