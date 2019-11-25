@@ -1,3 +1,6 @@
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
 转发自[网易裁员，让保安把身患绝症的我赶出公司。我在网易亲身经历的噩梦！](https://zhuanlan.zhihu.com/p/93349725)**为防止在知乎上被404，在这里备份以下。**   
 **侵删**
 # 网易裁员，让保安把身患绝症的我赶出公司。我在网易亲身经历的噩梦！
