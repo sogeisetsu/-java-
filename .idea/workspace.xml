@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26ab8075-d8b0-4321-9fd3-fe85c45c7883" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Neibu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mejava/Boook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mejava/Boook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mejava/Ceshi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mejava/Ceshi.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/mejava/StaticStudy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mejava/StaticStudy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FangCan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GzaoHanShu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JdL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lei.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StaticStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StaticStudy.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StaticStudy">
+  <component name="RunManager" selected="Application.Neibu">
     <configuration name="Ceshi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ceshi" />
       <module name="mejava" />
@@ -82,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PandC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PandC" />
+    <configuration name="Neibu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Neibu" />
       <module name="mejava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YinYong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="YinYong" />
+    <configuration name="res" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="res" />
       <module name="mejava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Neibu" />
+        <item itemvalue="Application.res" />
         <item itemvalue="Application.StaticStudy" />
         <item itemvalue="Application.Compareh" />
         <item itemvalue="Application.Ceshi" />
-        <item itemvalue="Application.PandC" />
-        <item itemvalue="Application.YinYong" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +135,8 @@
       <workItem from="1573819426309" duration="12657000" />
       <workItem from="1574486917909" duration="4335000" />
       <workItem from="1574566326054" duration="6957000" />
-      <workItem from="1574666072653" duration="3225000" />
+      <workItem from="1574666072653" duration="14625000" />
+      <workItem from="1574873816339" duration="2936000" />
     </task>
     <servers />
   </component>
