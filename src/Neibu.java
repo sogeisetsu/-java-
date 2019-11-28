@@ -12,7 +12,7 @@ class Wai {
         public void print() {
             System.out.println(Wai.msg);//内部访问外部
         }
-    }
+    }//static内部类
 
     public void fun() {
         new Nei().print();//外部访问内部

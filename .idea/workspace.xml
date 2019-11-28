@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26ab8075-d8b0-4321-9fd3-fe85c45c7883" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Neibu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mejava/Ceshi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mejava/Ceshi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mejava/StaticStudy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mejava/StaticStudy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FangCan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GzaoHanShu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JdL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lei.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StaticStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StaticStudy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Neibu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Neibu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Neibu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Wai$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Wai$Nei.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Wai.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -136,7 +133,8 @@
       <workItem from="1574486917909" duration="4335000" />
       <workItem from="1574566326054" duration="6957000" />
       <workItem from="1574666072653" duration="14625000" />
-      <workItem from="1574873816339" duration="2936000" />
+      <workItem from="1574873816339" duration="3141000" />
+      <workItem from="1574918220642" duration="987000" />
     </task>
     <servers />
   </component>
