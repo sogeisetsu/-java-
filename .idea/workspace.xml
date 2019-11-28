@@ -32,6 +32,18 @@
       </list>
     </option>
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="苏月晟" />
+        <option value="使用idea的苏月晟" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+>>>>>>> Stashed changes
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
@@ -123,13 +135,30 @@
       <workItem from="1574486917909" duration="4335000" />
       <workItem from="1574566326054" duration="2231000" />
     </task>
+<<<<<<< Updated upstream
+=======
+    <task id="LOCAL-00002" summary="因链表改变导致的idea配置文件的改变">
+      <created>1574957609267</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574957609267</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+>>>>>>> Stashed changes
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< Updated upstream
     <MESSAGE value="对内部小小的修改" />
     <option name="LAST_COMMIT_MESSAGE" value="对内部小小的修改" />
+=======
+    <MESSAGE value="链表莫名其妙的提交" />
+    <MESSAGE value="因链表改变导致的idea配置文件的改变" />
+    <option name="LAST_COMMIT_MESSAGE" value="因链表改变导致的idea配置文件的改变" />
+>>>>>>> Stashed changes
   </component>
 </project>
