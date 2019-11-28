@@ -12,7 +12,7 @@ class Wai {
         public void print() {
             System.out.println(Wai.msg);//内部访问外部
         }
-    }//static内部类
+    } //static内部类
 
     public void fun() {
         new Nei().print();//外部访问内部
@@ -50,7 +50,7 @@ class Neibu {
         //内部类可以private后就不可以直接访问了
         Wai.Mn mnm = new Wai().new Mn();//这是正常的内部类
         mnm.print();
-        new Wai().funn(12);
+        new Wai().funn(12);//方法里定义的内部类
 
     }
 }

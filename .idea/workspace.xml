@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="26ab8075-d8b0-4321-9fd3-fe85c45c7883" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Neibu.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Neibu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Neibu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wai$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wai$Nei.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wai.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
