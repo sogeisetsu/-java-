@@ -13,11 +13,10 @@ class Link{
             }
         }
         public void print(){
-            if(this==null){
-                return;
-            }
             System.out.println(this.data);
-            this.next.print();
+            if(this.next!=null){
+                this.next.print();
+            }
         }
         public boolean search(String data){
             if(data.equals(this.data)){
@@ -46,7 +45,7 @@ class Link{
         if(this.root==null){
             this.root=newNode;
         }else{
-            this.root.next.add(newNode);
+            this.root.add(newNode);
         }
     }
     public void printNode(){
@@ -68,4 +67,19 @@ class Link{
     }
 }
 public class LianBiaoTwo {
+    public static void main(String[] args) {
+        Link l =new Link();
+        l.addNode("A");
+        l.addNode("B");
+        l.addNode("c");
+        l.addNode("d");
+        l.addNode("c");
+        l.addNode("e");
+        l.addNode("f");
+        System.out.println("未删");
+        l.printNode();
+        l.deleteNode("c");
+        System.out.println("删除后");
+        l.printNode();
+    }
 }

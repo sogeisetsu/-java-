@@ -1,71 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26ab8075-d8b0-4321-9fd3-fe85c45c7883" name="Default Changelist" comment="">
+    <list default="true" id="d3ac76b3-9dc7-4240-9306-ae8b4ae4a1ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LianBiaoTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LianBiaoTwo.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> master
-  <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="苏月晟" />
-        <option value="使用idea的苏月晟" />
-      </list>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-<<<<<<< HEAD
->>>>>>> Stashed changes
-=======
->>>>>>> master
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
-  </component>
-  <component name="ProjectId" id="1TFIEiTnmJz1BsJJ35b6BaDxUXd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -79,37 +25,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LianBiao">
-    <configuration name="Compareh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Compareh" />
-      <module name="mejava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LianBiao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LianBiao" />
-      <module name="mejava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Neibu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Neibu" />
-      <module name="mejava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StaticStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StaticStudy" />
-      <module name="mejava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="res" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="res" />
+  <component name="RunManager">
+    <configuration name="LianBiaoTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LianBiaoTwo" />
       <module name="mejava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,11 +35,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LianBiao" />
-        <item itemvalue="Application.Neibu" />
-        <item itemvalue="Application.res" />
-        <item itemvalue="Application.StaticStudy" />
-        <item itemvalue="Application.Compareh" />
+        <item itemvalue="Application.LianBiaoTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -129,121 +43,6 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="26ab8075-d8b0-4321-9fd3-fe85c45c7883" name="Default Changelist" comment="" />
-      <created>1573049306529</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1573049306529</updated>
-      <workItem from="1573049310566" duration="26306000" />
-      <workItem from="1573179572905" duration="6514000" />
-      <workItem from="1573188952096" duration="899000" />
-      <workItem from="1573189976872" duration="28622000" />
-      <workItem from="1573819426309" duration="12657000" />
-      <workItem from="1574486917909" duration="4335000" />
-      <workItem from="1574566326054" duration="6957000" />
-      <workItem from="1574666072653" duration="14625000" />
-      <workItem from="1574873816339" duration="3141000" />
-      <workItem from="1574918220642" duration="987000" />
-    </task>
-    <task id="LOCAL-00001" summary="链表莫名其妙的提交">
-      <created>1574957321759</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1574957321759</updated>
-    </task>
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> master
-    <task id="LOCAL-00002" summary="因链表改变导致的idea配置文件的改变">
-      <created>1574957609267</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1574957609267</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
-<<<<<<< HEAD
->>>>>>> Stashed changes
-=======
->>>>>>> master
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-<<<<<<< HEAD
-  <component name="VcsManagerConfiguration">
-<<<<<<< Updated upstream
-    <MESSAGE value="对内部小小的修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="对内部小小的修改" />
-=======
-    <MESSAGE value="链表莫名其妙的提交" />
-    <MESSAGE value="因链表改变导致的idea配置文件的改变" />
-    <option name="LAST_COMMIT_MESSAGE" value="因链表改变导致的idea配置文件的改变" />
->>>>>>> Stashed changes
-=======
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
-      </list>
-    </option>
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="master" />
-                </option>
-              </RecentGroup>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="HEAD" />
-                </option>
-              </RecentGroup>
-            </list>
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="me" />
-                </option>
-              </RecentGroup>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="链表莫名其妙的提交" />
-    <MESSAGE value="因链表改变导致的idea配置文件的改变" />
-    <option name="LAST_COMMIT_MESSAGE" value="因链表改变导致的idea配置文件的改变" />
->>>>>>> master
   </component>
 </project>
