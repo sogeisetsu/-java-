@@ -1,4 +1,4 @@
-class presonn{
+class Presonn{
     private String name;
     private int age;
     public void setName(String name){
@@ -13,8 +13,11 @@ class presonn{
     public int getAge(){
         return this.age;
     }
+    public Presonn(){
+        System.out.println("调用了父类的无参构造");
+    }
 }
-class stud extends presonn{
+class Stud extends Presonn{
     private String schoolname;
     public void setSchoolname(String schoolname){
         this.schoolname=schoolname;
@@ -36,10 +39,25 @@ class stud extends presonn{
         System.out.println(this.getAge());
         System.out.println(this.getName());
     }
+    //实例化子类就默认调用了父类的无参构造
+    /*给父类的构造方法写一个输出语句，也给子类写一个就知道了
+    * */
+    public Stud(){
+        //子类构造里暗含super()函数
+        super();//这句话加不加都一样
+        System.out.println("调用了子类的无参构造");
+    }
+    /*输出结果
+    调用了父类的无参构造
+    调用了子类的无参构造
+    春风小学
+    12
+    li
+    * */
 }
 public class JjCheng {
     public static void main(String[] args) {
-        stud s1 = new stud();
+        Stud s1 = new Stud();
         s1.setAge(12);
         s1.setName("li");
         s1.setSchoolname("春风小学");
