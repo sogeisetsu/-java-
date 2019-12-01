@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26ab8075-d8b0-4321-9fd3-fe85c45c7883" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/JjCheng.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JjCheng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SuperDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +36,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JjCheng">
+  <component name="RunManager" selected="Application.FinalDemo">
+    <configuration name="FinalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalDemo" />
+      <module name="mejava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JjCheng" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JjCheng" />
       <module name="mejava" />
@@ -49,8 +58,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SuperDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SuperDemo" />
+      <module name="mejava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FinalDemo" />
+        <item itemvalue="Application.SuperDemo" />
         <item itemvalue="Application.JjCheng" />
         <item itemvalue="Application.LianBiaoTwo" />
       </list>
