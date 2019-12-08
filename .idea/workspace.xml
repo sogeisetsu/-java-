@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26ab8075-d8b0-4321-9fd3-fe85c45c7883" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AbstractDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuoTai.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,9 +47,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AbstractDemo">
+  <component name="RunManager" selected="Application.DuoTai">
     <configuration name="AbstractDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AbstractDemo" />
+      <module name="mejava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuoTai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DuoTai" />
       <module name="mejava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,13 +76,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LianBiaoTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LianBiaoTwo" />
-      <module name="mejava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SuperDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SuperDemo" />
       <module name="mejava" />
@@ -85,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuoTai" />
         <item itemvalue="Application.AbstractDemo" />
         <item itemvalue="Application.FinalDemo" />
         <item itemvalue="Application.SuperDemo" />
         <item itemvalue="Application.JjCheng" />
-        <item itemvalue="Application.LianBiaoTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575791978299</updated>
-      <workItem from="1575791992389" duration="2256000" />
+      <workItem from="1575791992389" duration="4897000" />
     </task>
     <servers />
   </component>
@@ -118,6 +118,31 @@
             <State>
               <option name="COLUMN_ORDER" />
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="suyuesheng" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
