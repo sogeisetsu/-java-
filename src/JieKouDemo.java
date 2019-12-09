@@ -6,7 +6,7 @@
 一个子类只能继承一个抽象类
 * */
 interface Z{
-    public final String MSG="hello,world";//全局变量
+    public static final String MSG="hello,world";//全局变量
     public abstract void fun();//抽象方法
 
 }
@@ -55,6 +55,7 @@ class X extends CA implements Z,W{
     public Boolean nin(){
         return false;
     }
+    public static final String AA="hahah"+MSG;
 }
 public class JieKouDemo {
     public static void main(String[] args) {
@@ -75,5 +76,6 @@ public class JieKouDemo {
         xxxhaha.printXX();//printXX>>XX>>from>>XXnoSun
         JJK jjk =xx;
         jjk.printJJK();//printJJk>>JJk
+        System.out.println(Z.MSG+X.AA);
     }
 }
