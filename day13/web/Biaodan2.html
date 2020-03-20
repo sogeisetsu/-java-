@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>表单--验证获取请求参数的通用方法</title>
+    <style>
+        #title{
+            color: red;
+            text-align: center;
+            font-family: Monaco, "Microsoft YaHei UI", "Arial Black";
+            font-weight: bolder;
+        }
+        .fo{
+            display: block;
+            width: 500px;
+            margin-right: auto;
+            margin-left: auto;
+        }
+        .fo h2{
+            text-align: center;
+            color: aqua;
+            font-weight: bolder;
+            font-family: SansSerif;
+        }
+        .fo input{
+            display: inline-block;
+            width: 200px;
+        }
+    </style>
+</head>
+<body>
+<h1 id="title">验证获取请求参数的通用方法</h1>
+<form class="fo" action="gp" method="post">
+    <h2>核心信息--userimp</h2>
+    <input type="text" name="userimp" placeholder="用户名>>用户核心信息--userimp">
+    <br>
+    <input type="password" name="userimp" placeholder="密码>>用户核心信息--userimp">
+    <input type="text" name="userant" placeholder="地域>>非核心信息--userant">
+    <br>
+    <input type="submit" value="提交">
+    <br>
+    <br>
+</form>
+<form method="post" action="gp" class="fo">
+    <h2>非核心信息</h2>
+    <input type="text" name="userant" placeholder="地域>>非核心信息--userant">
+    <br>
+    <input type="submit" value="提交">
+</form>
+</body>
+</html>

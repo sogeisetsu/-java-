@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>表单提交</title>
+    <script>
+        // window.onload=function () {
+        //     document.getElementById("ff").onsubmit=function (event) {
+        //         alert("提交内容为"+document.getElementById("inp").value);
+        //         return true;
+        //     }
+        // }
+    </script>
+    <style>
+        #title{
+            font-weight: bolder;
+            font-family: Monaco, "Microsoft YaHei UI", "Arial Black";
+            text-align: center;
+        }
+        #ff,#fff {
+            display: block;
+            width: 500px;
+            height: 500px;
+            /*margin: 0 auto;*/
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+</head>
+<body>
+<h1 id="title">表单提交</h1>
+<form action="day14" method="post" id="ff" >
+    <input id="inp" type="text" name="username" placeholder="post" >
+    <input type="password" name="password" placeholder="post  密码">
+    <br>
+    <input  value="提交" type="submit">
+</form>
+<form action="day14" method="get" id="fff" >
+    <input id="inpp" type="text" name="username" placeholder="get">
+    <br>
+    <input  value="提交" type="submit">
+</form>
+</body>
+</html>
